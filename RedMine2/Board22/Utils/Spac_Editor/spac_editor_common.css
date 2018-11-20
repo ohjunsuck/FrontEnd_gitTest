@@ -1,0 +1,119 @@
+div.blindScreen{
+	display: block;
+	position: absolute;
+	z-index: 101;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+div.blindScreenCover{
+	display: block;
+	position: absolute;
+	z-index: 102;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color:#C5C5C5;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+.blindScreen2{
+	display: block;
+	position: absolute;
+	z-index: 103;
+	width: auto;
+	height: auto;
+	padding:1px;
+}
+div.blind_html_div {
+	width:auto;
+	height:auto;
+	background-color:#FFFFFF;
+	border-width:1px;
+	border-style:solid;
+	border-color:gray;
+	border-top-color:#d9d9d9;
+	border-left-color:#d9d9d9;	
+	padding:1px;
+}
+div.context_menu_box {
+	width:150px;
+	height:auto;
+	border-width:1px;
+	border-style:solid;
+	border-color:#c9c9c9;
+	border-bottom-color:gray;
+	border-right-color:gray;
+	padding:1px;
+	background-color:#FFFFFF;	
+}
+div.context_menu_title {
+	width:auto;
+	height:auto;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#C4E1E1;
+	border-bottom-width:0px;
+	border-bottom-style:solid;
+	border-bottom-color:#FFFFFF;
+	text-align:center;
+	padding:3px;
+}
+div.context_menu_unit {
+	width:auto;
+	height:auto;
+	background-color:#f2f2f2;
+	border-bottom-width:0px;
+	border-bottom-style:solid;
+	border-bottom-color:#FFFFFF;
+	text-align:left;
+	padding:3px;
+	cursor:default;
+	margin-top:1px;
+	font-size:12px;
+}
+div.context_menu_unit_up {
+	width:auto;
+	height:auto;
+	background-color:#d9d9d9;
+	border-bottom-width:0px;
+	border-bottom-style:solid;
+	border-bottom-color:#FFFFFF;
+	text-align:left;
+	padding:3px;
+	cursor:default;
+	margin-top:1px;
+	font-size:12px;
+}
+div.property {
+	position: absolute;
+	z-index: 104;	
+	width:auto;
+	height:auto;
+	background-color:#c9c9c9;
+	padding:2px;
+	cursor:move;
+	border-width:1px;
+	border-style:solid;
+	border-color:#f2f2f2;
+	border-bottom-color:gray;
+	border-right-color:gray;
+}
+div.property_nodrag {
+	position: absolute;
+	z-index: 104;	
+	width:auto;
+	height:auto;
+	background-color:#c9c9c9;
+	padding:2px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#f2f2f2;
+	border-bottom-color:gray;
+	border-right-color:gray;
+}

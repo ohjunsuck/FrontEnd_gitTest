@@ -1,0 +1,83 @@
+﻿div.search_button_body {background-color:#8F9BB1; border-radius:3px 3px; padding:5px 5px 5px 10px;}
+div.search_option_body {margin-top:4px;background-color:#EFF7FF; border:1px solid #8F9BB1; border-radius:3px 3px; padding:5px 5px 5px 10px;}
+div.search_option_body span {display:inline-block;}
+div.search_option_body span.item { margin-right:10px;}
+div.search_option_body span.btn {}
+div.search_option_body table td {height:25px;}
+div.search_result {margin-top:10px; height:20px;}
+
+div.search_list {margin-top:5px;}
+div.search_list table {width:100%;border-bottom:1px solid #8F9BB1;border-collapse:collapse; border:1px;}
+div.search_list table tr:hover {background-color:#FFCC66;}
+/*div.search_list table th, div.search_list table td {border:0}*/
+div.search_list table th {vertical-align:middle;padding-left:4px; height:25px; border-top:1px solid #8F9BB1;border-bottom:1px solid #8F9BB1;background-color:#EFF7FF;color:#2C3C59;font-weight:bold;}
+div.search_list table td {vertical-align:middle;padding-left:4px; height:25px; border-bottom:1px solid #DDD;color:#4c4c4c}
+div.search_list table td a:link{font-family: "맑은 고딕","돋움","arial"     ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list table td a:visited{font-family: "맑은 고딕","돋움","arial"  ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list table td a:active{font-family: "맑은 고딕","돋움","arial"   ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list table td a:hover{font-family:"맑은 고딕","돋움","arial"     ;color:#FF0000;font-size: 12px;text-decoration: none;}
+
+div.search_list1 {margin-top:5px;}
+div.search_list1 table {width:100%;border-bottom:1px solid #8F9BB1;border-collapse:collapse; border:1px;}
+div.search_list1 table th {vertical-align:middle;padding-left:4px; height:25px; border-top:1px solid #8F9BB1;border-bottom:1px solid #8F9BB1;background-color:#EFF7FF;color:#2C3C59;font-weight:bold;}
+div.search_list1 table td {vertical-align:middle;padding-left:4px; height:25px; border-bottom:1px solid #DDD;color:#4c4c4c}
+div.search_list1 table td a:link{font-family: "맑은 고딕","돋움","arial"     ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list1 table td a:visited{font-family: "맑은 고딕","돋움","arial"  ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list1 table td a:active{font-family: "맑은 고딕","돋움","arial"   ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list1 table td a:hover{font-family:"맑은 고딕","돋움","arial"     ;color:#FF0000;font-size: 12px;text-decoration: none;}
+
+div.search_list2 {margin-top:5px;}
+div.search_list2 table {width:100%;border:1px solid #8F9BB1;border-collapse:collapse; border:1px;}
+div.search_list2 table tr:hover {background-color:#FFCC66;}
+/*div.search_list2 table th, div.search_list table td {border:0}*/
+div.search_list2 table th {vertical-align:middle;padding-left:4px; height:25px; border:1px solid #8F9BB1;background-color:#EFF7FF;color:#2C3C59;font-weight:bold;}
+div.search_list2 table td {vertical-align:middle;padding-left:4px; height:25px; border:1px solid #8F9BB1;color:#4c4c4c}
+div.search_list2 table td a:link{font-family: "맑은 고딕","돋움","arial"     ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list2 table td a:visited{font-family: "맑은 고딕","돋움","arial"  ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list2 table td a:active{font-family: "맑은 고딕","돋움","arial"   ;color:#2B3C59;font-size: 12px;text-decoration: none;}
+div.search_list2 table td a:hover{font-family:"맑은 고딕","돋움","arial"     ;color:#FF0000;font-size: 12px;text-decoration: none;}
+
+div.search_list3 {margin-top:5px;}
+div.search_list3 table {width:100%;border:1px solid #8F9BB1;border-collapse:collapse; border:1px;}
+div.search_list3 table th {padding-left:4px; border:1px solid #8F9BB1;background-color:#EFF7FF;color:#2C3C59;font-weight:bold;}
+div.search_list3 table td {padding-left:4px; border:1px solid #8F9BB1;color:#4c4c4c}
+
+div.search_list_paging { }
+
+
+div.content_normal {margin:5px;}
+div.content_normal table {width:100%;}
+div.content_normal table td {padding:5px;}
+
+
+
+div.admin_box {margin-top:10px; width:100%;}
+div.admin_box ul, div.admin_box li { list-style-type:none; }
+div.admin_box li.userlist {display:inline-block;float:left; width:16%;height:600px; border:1px solid #8F9BB1; padding:10px; overflow:auto;border-radius:3px 3px;box-shadow:2px 2px 5px #8F9BB1;}
+div.admin_box li.menulist {display:inline-block;float:right;width:80%;height:600px; border:1px solid #8F9BB1; padding:10px; overflow:auto;border-radius:3px 3px;box-shadow:2px 2px 5px #8F9BB1;}
+
+div.admin_box ul.user {}
+div.admin_box ul.user li {cursor:pointer;padding:5px;border:2px solid #FFF;border-radius:2px 2px;}
+
+div.admin_box ul.menu {padding-left:20px;}
+div.admin_box ul.menu li {line-height:20px; font-weight:bold; font-size:14px;}
+div.admin_box ul.menu li ul {margin:5px 10px 20px 0px; border:1px dotted #DDD;}
+div.admin_box ul.menu li ul li{padding:5px 0px 5px 50px; font-weight:normal; font-size:12px;}
+
+
+
+
+div.test_result {margin-top:10px; height:20px;}
+div.test_result span {display:inline-block}
+div.test_box {margin-top:10px; width:100%;}
+div.test_box ul, div.test_box li { list-style-type:none; }
+div.test_box li.inputuser {display:inline-block;float:left;position:absolute; width:410px;height:20px; border:1px solid #8F9BB1; padding:10px; overflow:hidden;border-radius:3px 3px;box-shadow:2px 2px 5px #8F9BB1;}
+div.test_box li.userlist {display:inline-block;float:left;position:absolute; width:410px;height:553px; border:1px solid #8F9BB1; padding:10px; overflow:auto;border-radius:3px 3px;box-shadow:2px 2px 5px #8F9BB1; top:190px;}
+div.test_box li.button {display:inline-block;float:left;position:absolute; width:100px;height:100px; padding:10px; overflow:hidden;top:400px;left:470px; vertical-align:middle;}
+div.test_box li.randomlist {display:inline-block;float:left;position:absolute; width:400px;height:600px; border:1px solid #8F9BB1; padding:10px; overflow:auto;border-radius:3px 3px;box-shadow:2px 2px 5px #8F9BB1; left:555px;}
+div.test_box ul.user {}
+div.test_box ul.user li {cursor:pointer;padding:5px; border-bottom:1px solid #EEE;}
+div.test_box ul.user li span {display:inline-block;}
+div.test_box ul.group {margin-bottom:10px;border:1px solid #AAA; background-color:#EEE;}
+div.test_box ul.group li {padding:5px;}
+div.test_box ul.group li span {display:inline-block;}

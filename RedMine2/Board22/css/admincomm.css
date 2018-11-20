@@ -1,0 +1,39 @@
+﻿.header
+ {     
+     list-style:none;
+     padding:3px;
+     margin:3px;
+ }
+ .header li
+ {     
+     font:돋움체;
+ }
+ .header li span
+ {
+    padding-top:3px;   
+    padding-bottom:3px;
+     font:돋움체;
+     font-weight:bold;
+ } 
+ .header ul li
+ {
+     list-style:none;          
+     margin-left:22px;
+     color:#828282;
+ }
+ .leftarea
+ {
+     float:left;
+     width:360px;
+     min-height:450px;
+     overflow:hidden;
+     margin-top :10px;
+ }
+ .rightarea
+ {
+     float:left;
+     width:360px;
+     min-height:150px;
+     margin-left:5px;
+     margin-top :10px;
+ } 

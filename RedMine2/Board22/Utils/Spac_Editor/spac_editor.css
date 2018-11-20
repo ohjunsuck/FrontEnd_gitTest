@@ -1,0 +1,150 @@
+a:link { text-decoration:none; color:gray}
+a:visited { text-decoration:none; color:gray}
+a:active { text-decoration:none; color:gray}
+a:hover { text-decoration:none; color:orange}
+.textarea {
+	background-color:#FFFFFF;
+	display:none;
+	border-width:1px;
+	border-style:solid;
+	border-color:#d9d9d9;
+}
+div.editor_box {
+	padding:5px;
+	background-color:#f9f9f9;
+	border-width:1px;
+	border-style:solid;
+	border-color:#d9d9d9;
+}
+div.menu_bg {
+	float:left;
+	clear:both;
+	width:99%;
+	height:auto;
+	margin-bottom:3px;
+}
+div.editor_bg {
+	margin:auto;
+	text-align:center;
+	padding:0px;
+	width:auto;
+	height:auto;
+	clear:both;
+	background-color:#FFFFFF;
+}
+.menu_btn {
+	padding:1px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#f9f9f9;
+	cursor:pointer;
+	font-size:17px;
+}
+.menu_btn_up {
+	padding:1px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ACACAC;
+	cursor:pointer;
+	font-size:17px;
+}
+label {
+	cursor:pointer;
+	font-size:12px;
+}
+img {
+	border:0;
+}
+.iframe {
+	border-width:1px;
+	border-style:solid;
+	border-color:#d9d9d9;
+}
+div.toolbar_unit {
+	width:auto;
+	height:auto;
+	float:left;
+	margin-right:1px;
+	margin-bottom:1px;
+}
+div.toolbar_unit2 {
+	float:left;
+	margin-right:3px;
+	height:16px;
+	width:auto;
+	border-width:1px;
+	border-style:solid;
+	border-color:#d9d9d9;
+	background-color:#FFFFFF;
+}
+div.toolbar_unit3 {
+
+	font-size:10px;
+	float:left;
+	margin-right:7px;
+	height:16px;
+	width:auto;
+	border-width:0px;
+	border-style:solid;
+	border-color:#d9d9d9;
+	padding:0;
+}
+.toolbar_select {
+	border-width:0;
+	background-color:#FFFFFF;
+	font-size:10px;
+	padding:0;
+}
+div.textboxes_title {
+	float:left;
+	width:auto;
+	padding:3px;
+	font-size:11px;
+	font-weight:bold;
+	color:white;
+	text-align:left;
+	cursor:default;
+}
+div.textboxes_contents {
+	clear:both;
+	padding:5px;
+	background-color:#f9f9f9;
+	cursor:default;
+	font-size:12px;
+}
+.trans_icon{
+	background-color:#F2F2F2; 
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
+	-moz-opacity:0.3;
+	-khtml-opacity: 0.3;
+	opacity: 0.3;
+	padding:1px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#f9f9f9;
+}
+div.chars_btn {
+	float:left;
+	padding:1px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#f9f9f9;
+	font-size:20px;
+}
+div.spac_preview_box {
+	clear:both;
+	width:auto;
+	height:auto;
+	padding:0;
+	border-width:0px;
+	border-style:solid;
+	border-color:gray;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+.colorpicker {
+	font-size:11px;
+	padding:1px;
+	height:11px;
+}
